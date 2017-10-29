@@ -1,0 +1,45 @@
+Shiny Application and Reproducible Pitch
+========================================================
+author: Francisco Javier Rincon     
+date: 29/10/2017
+font-family: 'Helvetica'
+
+Course Project
+========================================================
+
+
+This is the final presentation for the Course Project of the "Developing data products" course
+This course is part of the **Data Science specialization**
+    
+The project consists in two activities:
+
+  - Create a Shiny application
+  - Create a presentation in Slidify or Rstudio Presenter to pitch for the application.
+
+
+Instructions
+========================================================
+
+
+The app developed for the first part of the assignment demo is avalilable at:
+https://franarevalo.shinyapps.io/Shiny_Application/
+
+Source code for ui.R and server.R files are available on the GitHub repo:
+https://github.com/FranArevalo/Shiny-Application-and-Reproducible-Pitch/
+
+
+Shiny App: Histogram
+========================================================
+
+
+Shiny App: Histogram of NORMAL DISTRIBUTION
+
+    sliderInput for Stretch or compress (min=1, max=100, step=1)
+
+
+
+Code
+========================================================
+
+
+All the codes are present at my github repo
